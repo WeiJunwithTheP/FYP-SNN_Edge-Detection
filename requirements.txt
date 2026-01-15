@@ -1,0 +1,5 @@
+numpy
+opencv-python
+brian2
+matplotlib
+scikit-image
