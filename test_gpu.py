@@ -11,7 +11,7 @@ from skimage.metrics import (
 # =====================================================
 # 1. SETTINGS
 # =====================================================
-IMAGE_PATH = "C:/Users/panwj/OneDrive/Desktop/fyp/SNN2/test_picture/t14.png"
+IMAGE_PATH = "IMG PATH"
 RESIZE_DIM = (256, 256)
 
 # Trained Kernels
